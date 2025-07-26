@@ -1,5 +1,5 @@
 Project Description:
-This project involves creating an interactive Power BI dashboard that visualizes the cricket career statistics of Virat Kohli. The dashboard is designed to provide a comprehensive view of his performance across different match formats, tournaments, and time periods. It highlights key statistics such as total runs, centuries, half-centuries, batting averages, strike rates, and performance trends against various opponents.
+This project involves creating an interactive Power BI dashboard that visualizes the cricket career statistics of Virat Kohli. The dashboard is designed to provide a comprehensive view of his performance across different match formats, tournaments, and time periods. It highlights key statistics such as total runs, centuries, half-centuries, batting averages, strike rates, and performance trends aginsat diffrent opponents.
 
 The goal of this project is to present Virat Kohli’s career data in an easy-to-understand, visual, and interactive manner, enabling cricket enthusiasts, analysts, and sports professionals to explore his achievements and performance insights.
 
